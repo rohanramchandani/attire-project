@@ -1,6 +1,6 @@
 👕 PerfectFit: AI-Driven Apparel Matching & Geospatial Discovery
 
-PerfectFit functioned as an AI-powered system designed to modernize how users discover and purchase clothing. The platform utilized computer vision to analyze user-uploaded T-shirt images and matched them with inventory from nearby physical and online retailers.
+PerfectFit, an AI-powered system designed to modernize how users discover and purchase clothing. The platform utilized computer vision to analyze user-uploaded T-shirt images and matched them with inventory from nearby physical and online retailers.
 
 🚀 Key Features
 
